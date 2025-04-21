@@ -1,5 +1,5 @@
 gridSize=10
 windowWidth=319
 windowHeight=289
-bgColor=137 100 64
-gridColor=76 212 92
+bgColor=78 74 211
+gridColor=166 106 46
